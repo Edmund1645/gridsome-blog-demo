@@ -1,0 +1,9 @@
+.articles-list {
+  margin-top: 3.5rem;
+}
+
+.article-list__section-heading {
+  padding-bottom: 3px;
+  border-bottom: 1px solid rgb(196, 193, 193);
+  margin-bottom: 2.2rem;
+}
